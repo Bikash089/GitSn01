@@ -18,7 +18,7 @@ public class PrimeNum {
 		}
 		
 		if(!flag) {
-			System.out.println("The number is PRIME Num");
+			System.out.println("The number is PRIME Num add");
 		}
 		else {
 			System.out.println("The number is not PRIME");
